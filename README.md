@@ -5,5 +5,10 @@ I was a geologist with MSc. in Resource Engineering. But I worked as a barista i
 I do not mind a Starbucks coffee though.
 
 IDEA OF THE DAY
+
 English study: collect TED video ->collect transcript ->compare with the database of say 4000 basic vocabulary and highlight those basic vocabulary in the TED speech  -->explain those words for the learner.
 Dutch study: using TED speech in Dutch
+
+IDEA OF THE DAY 2
+
+DeDao App - ShaoHengTouTiao in English to update educated Chinese(researchers, expat) in the Netherlands so that they could talk with their colleagues confidently
